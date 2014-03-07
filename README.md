@@ -1,3 +1,3 @@
 Bookshub
 --------
-< Free books on GitHub
+> Free books on GitHub
