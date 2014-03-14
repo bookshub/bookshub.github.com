@@ -1,7 +1,8 @@
 BooksHub
 --------
 
-  Free books on GitHub
+  Free books on GitHub.
+  Write books, share books on GitHub.
 
 ### Lists
 
