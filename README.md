@@ -3,6 +3,8 @@ BooksHub
 
   Free books on GitHub
 
-### Books
+### Lists
 
-* [JavaScript](./javascript/books.md)
+#### [JavaScript](./javascript/books.md)
+
+#### [Python](./python/books.md)
