@@ -8,6 +8,6 @@ List of Free Learning Resources
 * [repo](https://github.com/BonsaiDen/JavaScript-Garden)
 
 ##### Learning JavaScript Design Patterns
-* By By Addy Osmani (@addyosmani)
+* By Addy Osmani (@addyosmani)
 * [book](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [repo](https://github.com/addyosmani/essential-js-design-patterns)
