@@ -2,7 +2,7 @@
 
 List of Free Learning Resources
 
-##### JavaScript The Right Way
+#### JavaScript The Right Way
 * [book](http://jstherightway.org/)
 * [repo](https://github.com/braziljs/js-the-right-way)
 
