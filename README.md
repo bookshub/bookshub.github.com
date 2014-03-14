@@ -1,3 +1,8 @@
 BooksHub
 --------
-> Free books on GitHub
+
+  Free books on GitHub
+
+### Books
+
+* [JavaScript](./javascript/books.md)
