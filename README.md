@@ -13,3 +13,5 @@ BooksHub
 #### [Python](python/books.md)
 
 #### [PHP](php/books.md)
+
+#### [Vim](vim/books.md)
