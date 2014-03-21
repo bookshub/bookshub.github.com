@@ -2,11 +2,16 @@
 
 List of Free Learning Resources
 
+#### Eloquent JavaScript
+* By marijnh
+* [book](http://eloquentjavascript.net/2nd_edition/)
+* [repo](https://github.com/marijnh/Eloquent-JavaScript)
+
 #### JavaScript The Right Way
 * [book](http://jstherightway.org/)
 * [repo](https://github.com/braziljs/js-the-right-way)
 
-#### JavaScript Garden 
+#### JavaScript Garden
 * [book](http://bonsaiden.github.io/JavaScript-Garden/)
 * [repo](https://github.com/BonsaiDen/JavaScript-Garden)
 
